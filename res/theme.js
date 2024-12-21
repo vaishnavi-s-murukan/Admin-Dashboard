@@ -7,7 +7,6 @@
  * @property {array}  dark      - CSS Properties for Dark Mode
  * @property {object} lightMode - Enable Light Mode Element
  * @property {object} darkMode  - Enable Dark Mode Element
- * @author Dean Wagner <info@deanwagner.net>
  */
 class Theme {
 
